@@ -50,3 +50,6 @@ The application requires the following prerequisites in order to run locally:
 5. To turn on the back-end API, run the following command in the root directory: `npm run start:dev`
 6. Next we need to get the front-end React/Typescript/Material UI application setup, sp open a second command line window, and within the root directory change to the client directory with the command `cd /client`, then install the UI application dependencies with `npm install`.
 7. To start up the front-end UI application, execute `npm run start`. Once the success message appears you should be routed to the home page in your default browser, which is located at http://localhost:3000
+
+## Credits
+Team members include: Adam Osaka, Kaewan Gardi, Brayden Murphy, and Michael Stearns.
